@@ -29,7 +29,7 @@ This allows you to build a very economical display for the current data.
 9. hope that everything works ...
 
 
-Helpful links:
+# Helpful links:
 - https://github.com/philippelt/netatmo-api-python/blob/master/usage.md
 - https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B)
 - https://dev.netatmo.com/
